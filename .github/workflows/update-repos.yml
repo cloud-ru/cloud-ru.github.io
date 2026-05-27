@@ -1,6 +1,9 @@
 name: Update repository data
 
 on:
+  push:
+    paths:
+      - ".github/workflows/update-repos.yml"
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
