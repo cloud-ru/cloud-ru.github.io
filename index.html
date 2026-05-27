@@ -1,2 +1,330 @@
-under construction
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cloud.ru — Open Source</title>
+  <style>
+    :root {
+      --color-bg: #0a0e1a;
+      --color-surface: #131829;
+      --color-border: #1e2540;
+      --color-primary: #6366f1;
+      --color-primary-light: #818cf8;
+      --color-accent: #38bdf8;
+      --color-text: #e2e8f0;
+      --color-text-muted: #94a3b8;
+      --color-star: #facc15;
+      --radius: 12px;
+    }
 
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: var(--color-bg);
+      color: var(--color-text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    .header {
+      text-align: center;
+      padding: 3rem 1rem 2rem;
+      background: linear-gradient(180deg, #161b30 0%, var(--color-bg) 100%);
+    }
+
+    .header h1 {
+      font-size: 2.25rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .header p {
+      color: var(--color-text-muted);
+      margin-top: 0.5rem;
+      font-size: 1.05rem;
+    }
+
+    .updated {
+      text-align: center;
+      color: var(--color-text-muted);
+      font-size: 0.8rem;
+      margin-top: 0.75rem;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 1rem 3rem;
+    }
+
+    .org-section {
+      margin-top: 2.5rem;
+    }
+
+    .org-title {
+      font-size: 1.35rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .org-title a {
+      color: var(--color-primary-light);
+      text-decoration: none;
+    }
+
+    .org-title a:hover {
+      text-decoration: underline;
+    }
+
+    .org-desc {
+      color: var(--color-text-muted);
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      background: var(--color-surface);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    thead th {
+      text-align: left;
+      padding: 0.75rem 1rem;
+      font-weight: 600;
+      color: var(--color-text-muted);
+      border-bottom: 1px solid var(--color-border);
+      white-space: nowrap;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    tbody tr:last-child {
+      border-bottom: none;
+    }
+
+    tbody tr:hover {
+      background: rgba(99, 102, 241, 0.04);
+    }
+
+    td {
+      padding: 0.65rem 1rem;
+      vertical-align: top;
+    }
+
+    td:first-child {
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    td a {
+      color: var(--color-accent);
+      text-decoration: none;
+    }
+
+    td a:hover {
+      text-decoration: underline;
+    }
+
+    .stars {
+      color: var(--color-star);
+      white-space: nowrap;
+    }
+
+    .license {
+      color: var(--color-text-muted);
+      white-space: nowrap;
+    }
+
+    .date {
+      color: var(--color-text-muted);
+      white-space: nowrap;
+    }
+
+    .desc {
+      color: var(--color-text-muted);
+      max-width: 380px;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: var(--color-text-muted);
+    }
+
+    .error {
+      text-align: center;
+      padding: 2rem;
+      color: #f87171;
+    }
+
+    .badge {
+      display: inline-block;
+      background: var(--color-border);
+      color: var(--color-text-muted);
+      padding: 0.15rem 0.5rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: var(--color-text-muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--color-border);
+    }
+
+    .footer a {
+      color: var(--color-primary-light);
+      text-decoration: none;
+    }
+
+    @media (max-width: 640px) {
+      .header h1 { font-size: 1.5rem; }
+      td, th { padding: 0.5rem 0.6rem; }
+      .desc { max-width: 200px; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Cloud.ru Open Source</h1>
+  <p>Публичные репозитории организаций Cloud.ru на GitHub</p>
+  <div class="updated" id="updated"></div>
+</div>
+
+<div class="container">
+  <div class="org-section" id="section-cloud-ru">
+    <h2 class="org-title"><a href="https://github.com/cloud-ru" target="_blank" rel="noopener">cloud-ru</a></h2>
+    <p class="org-desc">Инструменты и примеры для клиентов облачной платформы Cloud.ru</p>
+    <div id="table-cloud-ru"><div class="loading">Загрузка…</div></div>
+  </div>
+
+  <div class="org-section" id="section-cloud-ru-tech">
+    <h2 class="org-title"><a href="https://github.com/cloud-ru-tech" target="_blank" rel="noopener">cloud-ru-tech</a></h2>
+    <p class="org-desc">Open source проекты, которыми Cloud.ru делится с сообществом</p>
+    <div id="table-cloud-ru-tech"><div class="loading">Загрузка…</div></div>
+  </div>
+</div>
+
+<div class="footer">
+  Данные обновляются ежедневно через GitHub API&ensp;·&ensp;<a href="https://cloud.ru" target="_blank" rel="noopener">cloud.ru</a>
+</div>
+
+<script>
+  function formatDate(iso) {
+    if (!iso) return '—';
+    const d = new Date(iso);
+    return d.toLocaleDateString('ru-RU', { year: 'numeric', month: 'short', day: 'numeric' });
+  }
+
+  function renderTable(repos, containerId) {
+    const el = document.getElementById(containerId);
+    if (!repos || repos.length === 0) {
+      el.innerHTML = '<div class="loading">Нет публичных репозиториев</div>';
+      return;
+    }
+    const rows = repos.map(r => `
+      <tr>
+        <td><a href="${r.url}" target="_blank" rel="noopener">${r.name}</a></td>
+        <td class="desc">${r.description || '—'}</td>
+        <td class="license">${r.license ? `<span class="badge">${r.license}</span>` : '—'}</td>
+        <td class="stars">★ ${r.stars}</td>
+        <td class="date">${formatDate(r.updated_at)}</td>
+      </tr>`).join('');
+
+    el.innerHTML = `<div class="table-wrap"><table>
+      <thead><tr>
+        <th>Репозиторий</th>
+        <th>Описание</th>
+        <th>Лицензия</th>
+        <th>Звёзды</th>
+        <th>Обновлён</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table></div>`;
+  }
+
+  async function fetchAllPages(org) {
+    const repos = [];
+    let page = 1;
+    while (true) {
+      const res = await fetch(
+        `https://api.github.com/orgs/${org}/repos?type=public&per_page=100&page=${page}`,
+        { headers: { 'Accept': 'application/vnd.github+json' } }
+      );
+      if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+      const data = await res.json();
+      if (data.length === 0) break;
+      repos.push(...data);
+      page++;
+    }
+    return repos
+      .map(r => ({
+        name: r.name,
+        url: r.html_url,
+        description: r.description,
+        license: r.license ? r.license.spdx_id : null,
+        stars: r.stargazers_count,
+        updated_at: r.pushed_at
+      }))
+      .sort((a, b) => b.stars - a.stars);
+  }
+
+  async function load() {
+    try {
+      const res = await fetch('data/repos.json');
+      if (res.ok) {
+        const data = await res.json();
+        renderTable(data['cloud-ru'], 'table-cloud-ru');
+        renderTable(data['cloud-ru-tech'], 'table-cloud-ru-tech');
+        if (data.updated_at) {
+          document.getElementById('updated').textContent =
+            'Обновлено: ' + formatDate(data.updated_at);
+        }
+        return;
+      }
+    } catch (_) {}
+
+    try {
+      const [cr, crt] = await Promise.all([
+        fetchAllPages('cloud-ru'),
+        fetchAllPages('cloud-ru-tech')
+      ]);
+      renderTable(cr, 'table-cloud-ru');
+      renderTable(crt, 'table-cloud-ru-tech');
+      document.getElementById('updated').textContent =
+        'Обновлено: ' + formatDate(new Date().toISOString());
+    } catch (err) {
+      document.getElementById('table-cloud-ru').innerHTML =
+        `<div class="error">Ошибка загрузки: ${err.message}</div>`;
+      document.getElementById('table-cloud-ru-tech').innerHTML =
+        `<div class="error">Ошибка загрузки: ${err.message}</div>`;
+    }
+  }
+
+  load();
+</script>
+
+</body>
+</html>
