@@ -4,57 +4,96 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cloud.ru — Open Source</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --color-bg: #0a0e1a;
-      --color-surface: #131829;
-      --color-border: #1e2540;
-      --color-primary: #6366f1;
-      --color-primary-light: #818cf8;
-      --color-accent: #38bdf8;
-      --color-text: #e2e8f0;
-      --color-text-muted: #94a3b8;
-      --color-star: #facc15;
+      --color-bg: #ffffff;
+      --color-surface: #ffffff;
+      --color-surface-secondary: #f7f8fa;
+      --color-border: #e5e7eb;
+      --color-primary: #00b853;
+      --color-primary-hover: #00a049;
+      --color-primary-light: #e6f9ef;
+      --color-text: #1a1a1a;
+      --color-text-secondary: #5c6370;
+      --color-text-muted: #8b919a;
+      --color-star: #f59e0b;
+      --color-link: #00875a;
       --radius: 12px;
+      --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      background: var(--color-bg);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--color-surface-secondary);
       color: var(--color-text);
       line-height: 1.6;
       min-height: 100vh;
     }
 
     .header {
+      background: var(--color-bg);
+      border-bottom: 1px solid var(--color-border);
+      padding: 2.5rem 1rem 2rem;
       text-align: center;
-      padding: 3rem 1rem 2rem;
-      background: linear-gradient(180deg, #161b30 0%, var(--color-bg) 100%);
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .logo {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .logo-mark {
+      width: 36px;
+      height: 36px;
+      background: var(--color-primary);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .logo-mark svg {
+      width: 20px;
+      height: 20px;
+      fill: #fff;
     }
 
     .header h1 {
-      font-size: 2.25rem;
+      font-size: 1.75rem;
       font-weight: 700;
       letter-spacing: -0.02em;
-      background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      color: var(--color-text);
+    }
+
+    .header h1 span {
+      color: var(--color-primary);
     }
 
     .header p {
-      color: var(--color-text-muted);
-      margin-top: 0.5rem;
-      font-size: 1.05rem;
+      color: var(--color-text-secondary);
+      font-size: 1rem;
     }
 
     .updated {
-      text-align: center;
       color: var(--color-text-muted);
       font-size: 0.8rem;
-      margin-top: 0.75rem;
+      margin-top: 0.25rem;
     }
 
     .container {
@@ -64,28 +103,45 @@
     }
 
     .org-section {
-      margin-top: 2.5rem;
+      margin-top: 2rem;
+    }
+
+    .org-header {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      flex-wrap: wrap;
     }
 
     .org-title {
-      font-size: 1.35rem;
+      font-size: 1.2rem;
       font-weight: 600;
-      margin-bottom: 0.25rem;
     }
 
     .org-title a {
-      color: var(--color-primary-light);
+      color: var(--color-text);
       text-decoration: none;
+      transition: color 0.15s;
     }
 
     .org-title a:hover {
-      text-decoration: underline;
+      color: var(--color-primary);
     }
 
     .org-desc {
       color: var(--color-text-muted);
-      font-size: 0.9rem;
-      margin-bottom: 1rem;
+      font-size: 0.85rem;
+    }
+
+    .repo-count {
+      display: inline-block;
+      background: var(--color-primary-light);
+      color: var(--color-primary);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.15rem 0.5rem;
+      border-radius: 10px;
     }
 
     .table-wrap {
@@ -93,28 +149,31 @@
       border: 1px solid var(--color-border);
       border-radius: var(--radius);
       background: var(--color-surface);
+      box-shadow: var(--shadow);
     }
 
     table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.9rem;
+      font-size: 0.875rem;
     }
 
     thead th {
       text-align: left;
-      padding: 0.75rem 1rem;
+      padding: 0.7rem 1rem;
       font-weight: 600;
+      font-size: 0.75rem;
       color: var(--color-text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      background: var(--color-surface-secondary);
       border-bottom: 1px solid var(--color-border);
       white-space: nowrap;
-      font-size: 0.8rem;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
     }
 
     tbody tr {
       border-bottom: 1px solid var(--color-border);
+      transition: background 0.1s;
     }
 
     tbody tr:last-child {
@@ -122,46 +181,63 @@
     }
 
     tbody tr:hover {
-      background: rgba(99, 102, 241, 0.04);
+      background: var(--color-surface-secondary);
     }
 
     td {
-      padding: 0.65rem 1rem;
+      padding: 0.6rem 1rem;
       vertical-align: top;
     }
 
-    td:first-child {
+    .col-name {
       font-weight: 500;
       white-space: nowrap;
     }
 
-    td a {
-      color: var(--color-accent);
+    .col-name a {
+      color: var(--color-link);
       text-decoration: none;
+      transition: color 0.15s;
     }
 
-    td a:hover {
+    .col-name a:hover {
+      color: var(--color-primary);
       text-decoration: underline;
     }
 
-    .stars {
+    .col-desc {
+      color: var(--color-text-secondary);
+      max-width: 400px;
+    }
+
+    .col-license {
+      white-space: nowrap;
+    }
+
+    .badge {
+      display: inline-block;
+      background: var(--color-surface-secondary);
+      color: var(--color-text-secondary);
+      border: 1px solid var(--color-border);
+      padding: 0.1rem 0.45rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    .col-stars {
+      white-space: nowrap;
+      font-weight: 500;
+      color: var(--color-text-secondary);
+    }
+
+    .col-stars .star-icon {
       color: var(--color-star);
-      white-space: nowrap;
     }
 
-    .license {
+    .col-date {
       color: var(--color-text-muted);
       white-space: nowrap;
-    }
-
-    .date {
-      color: var(--color-text-muted);
-      white-space: nowrap;
-    }
-
-    .desc {
-      color: var(--color-text-muted);
-      max-width: 380px;
     }
 
     .loading {
@@ -173,62 +249,73 @@
     .error {
       text-align: center;
       padding: 2rem;
-      color: #f87171;
-    }
-
-    .badge {
-      display: inline-block;
-      background: var(--color-border);
-      color: var(--color-text-muted);
-      padding: 0.15rem 0.5rem;
-      border-radius: 6px;
-      font-size: 0.75rem;
+      color: #dc2626;
     }
 
     .footer {
       text-align: center;
-      padding: 2rem 1rem;
+      padding: 1.5rem 1rem;
       color: var(--color-text-muted);
       font-size: 0.8rem;
       border-top: 1px solid var(--color-border);
+      background: var(--color-bg);
     }
 
     .footer a {
-      color: var(--color-primary-light);
+      color: var(--color-link);
       text-decoration: none;
     }
 
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
     @media (max-width: 640px) {
-      .header h1 { font-size: 1.5rem; }
+      .header { padding: 1.5rem 1rem; }
+      .header h1 { font-size: 1.35rem; }
       td, th { padding: 0.5rem 0.6rem; }
-      .desc { max-width: 200px; }
+      .col-desc { max-width: 180px; }
+      .org-header { flex-direction: column; gap: 0.25rem; }
     }
   </style>
 </head>
 <body>
 
 <div class="header">
-  <h1>Cloud.ru Open Source</h1>
-  <p>Публичные репозитории организаций Cloud.ru на GitHub</p>
-  <div class="updated" id="updated"></div>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>
+      </div>
+      <h1><span>Cloud.ru</span> Open Source</h1>
+    </div>
+    <p>Публичные репозитории организаций Cloud.ru на GitHub</p>
+    <div class="updated" id="updated"></div>
+  </div>
 </div>
 
 <div class="container">
   <div class="org-section" id="section-cloud-ru">
-    <h2 class="org-title"><a href="https://github.com/cloud-ru" target="_blank" rel="noopener">cloud-ru</a></h2>
+    <div class="org-header">
+      <h2 class="org-title"><a href="https://github.com/cloud-ru" target="_blank" rel="noopener">cloud-ru</a></h2>
+      <span class="repo-count" id="count-cloud-ru"></span>
+    </div>
     <p class="org-desc">Инструменты и примеры для клиентов облачной платформы Cloud.ru</p>
     <div id="table-cloud-ru"><div class="loading">Загрузка…</div></div>
   </div>
 
   <div class="org-section" id="section-cloud-ru-tech">
-    <h2 class="org-title"><a href="https://github.com/cloud-ru-tech" target="_blank" rel="noopener">cloud-ru-tech</a></h2>
+    <div class="org-header">
+      <h2 class="org-title"><a href="https://github.com/cloud-ru-tech" target="_blank" rel="noopener">cloud-ru-tech</a></h2>
+      <span class="repo-count" id="count-cloud-ru-tech"></span>
+    </div>
     <p class="org-desc">Open source проекты, которыми Cloud.ru делится с сообществом</p>
     <div id="table-cloud-ru-tech"><div class="loading">Загрузка…</div></div>
   </div>
 </div>
 
 <div class="footer">
-  Данные обновляются ежедневно через GitHub API&ensp;·&ensp;<a href="https://cloud.ru" target="_blank" rel="noopener">cloud.ru</a>
+  Данные обновляются ежедневно через GitHub API&ensp;&middot;&ensp;<a href="https://cloud.ru" target="_blank" rel="noopener">cloud.ru</a>
 </div>
 
 <script>
@@ -238,19 +325,30 @@
     return d.toLocaleDateString('ru-RU', { year: 'numeric', month: 'short', day: 'numeric' });
   }
 
-  function renderTable(repos, containerId) {
+  function escapeHtml(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  function renderTable(repos, containerId, countId) {
     const el = document.getElementById(containerId);
+    const countEl = document.getElementById(countId);
     if (!repos || repos.length === 0) {
       el.innerHTML = '<div class="loading">Нет публичных репозиториев</div>';
+      if (countEl) countEl.style.display = 'none';
       return;
     }
+    if (countEl) countEl.textContent = repos.length + ' repo';
+
     const rows = repos.map(r => `
       <tr>
-        <td><a href="${r.url}" target="_blank" rel="noopener">${r.name}</a></td>
-        <td class="desc">${r.description || '—'}</td>
-        <td class="license">${r.license ? `<span class="badge">${r.license}</span>` : '—'}</td>
-        <td class="stars">★ ${r.stars}</td>
-        <td class="date">${formatDate(r.updated_at)}</td>
+        <td class="col-name"><a href="${escapeHtml(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.name)}</a></td>
+        <td class="col-desc">${escapeHtml(r.description) || '—'}</td>
+        <td class="col-license">${r.license ? `<span class="badge">${escapeHtml(r.license)}</span>` : '—'}</td>
+        <td class="col-stars"><span class="star-icon">★</span> ${r.stars}</td>
+        <td class="col-date">${formatDate(r.updated_at)}</td>
       </tr>`).join('');
 
     el.innerHTML = `<div class="table-wrap"><table>
@@ -296,8 +394,8 @@
       const res = await fetch('data/repos.json');
       if (res.ok) {
         const data = await res.json();
-        renderTable(data['cloud-ru'], 'table-cloud-ru');
-        renderTable(data['cloud-ru-tech'], 'table-cloud-ru-tech');
+        renderTable(data['cloud-ru'], 'table-cloud-ru', 'count-cloud-ru');
+        renderTable(data['cloud-ru-tech'], 'table-cloud-ru-tech', 'count-cloud-ru-tech');
         if (data.updated_at) {
           document.getElementById('updated').textContent =
             'Обновлено: ' + formatDate(data.updated_at);
@@ -311,8 +409,8 @@
         fetchAllPages('cloud-ru'),
         fetchAllPages('cloud-ru-tech')
       ]);
-      renderTable(cr, 'table-cloud-ru');
-      renderTable(crt, 'table-cloud-ru-tech');
+      renderTable(cr, 'table-cloud-ru', 'count-cloud-ru');
+      renderTable(crt, 'table-cloud-ru-tech', 'count-cloud-ru-tech');
       document.getElementById('updated').textContent =
         'Обновлено: ' + formatDate(new Date().toISOString());
     } catch (err) {
