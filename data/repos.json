@@ -1,5 +1,319 @@
 {
-  "updated_at": null,
-  "cloud-ru": [],
-  "cloud-ru-tech": []
+  "updated_at": "2026-05-27T14:59:58Z",
+  "cloud-ru": [
+    {
+      "name": "evo-terraform",
+      "url": "https://github.com/cloud-ru/evo-terraform",
+      "description": "Cloud.ru Evolution Terraform provider",
+      "license": "MIT",
+      "stars": 21,
+      "updated_at": "2026-05-18T14:24:40Z"
+    },
+    {
+      "name": "evo-ai-agents-labs",
+      "url": "https://github.com/cloud-ru/evo-ai-agents-labs",
+      "description": "Лабораторные работы AI Agents",
+      "license": "MIT",
+      "stars": 12,
+      "updated_at": "2026-04-13T07:37:28Z"
+    },
+    {
+      "name": "mcp-servers",
+      "url": "https://github.com/cloud-ru/mcp-servers",
+      "description": null,
+      "license": "MIT",
+      "stars": 8,
+      "updated_at": "2025-06-25T01:59:50Z"
+    },
+    {
+      "name": "evo-foundation-models-vibe-coding-prompts",
+      "url": "https://github.com/cloud-ru/evo-foundation-models-vibe-coding-prompts",
+      "description": null,
+      "license": "MIT",
+      "stars": 6,
+      "updated_at": "2025-09-25T08:25:00Z"
+    },
+    {
+      "name": "evolution-openai-python",
+      "url": "https://github.com/cloud-ru/evolution-openai-python",
+      "description": "Evolution Python library for the OpenAI API",
+      "license": "MIT",
+      "stars": 5,
+      "updated_at": "2025-10-06T16:31:11Z"
+    },
+    {
+      "name": "a2a-adk-mcp-example",
+      "url": "https://github.com/cloud-ru/a2a-adk-mcp-example",
+      "description": null,
+      "license": null,
+      "stars": 5,
+      "updated_at": "2025-07-24T14:55:03Z"
+    },
+    {
+      "name": "evo-aifactory-skills",
+      "url": "https://github.com/cloud-ru/evo-aifactory-skills",
+      "description": "Универсальные скиллы для работы с сервисами Cloud.ru из любого AI-агента для разработки.",
+      "license": "NOASSERTION",
+      "stars": 5,
+      "updated_at": "2026-04-22T12:48:48Z"
+    },
+    {
+      "name": "ml-cli",
+      "url": "https://github.com/cloud-ru/ml-cli",
+      "description": null,
+      "license": "MIT",
+      "stars": 3,
+      "updated_at": "2026-04-02T11:27:13Z"
+    },
+    {
+      "name": "evo-containerapp-restapi-js-go-python-dotnet-sample",
+      "url": "https://github.com/cloud-ru/evo-containerapp-restapi-js-go-python-dotnet-sample",
+      "description": "Примеры использования Evolution Container Apps и Artifact Registry",
+      "license": "MIT",
+      "stars": 2,
+      "updated_at": "2024-08-16T15:38:19Z"
+    },
+    {
+      "name": "telegram-bot-mcp-evolution-managed-rag",
+      "url": "https://github.com/cloud-ru/telegram-bot-mcp-evolution-managed-rag",
+      "description": null,
+      "license": "MIT",
+      "stars": 2,
+      "updated_at": "2025-09-02T10:13:16Z"
+    },
+    {
+      "name": "evo-foundation-models-ai-development-workshop",
+      "url": "https://github.com/cloud-ru/evo-foundation-models-ai-development-workshop",
+      "description": null,
+      "license": "MIT",
+      "stars": 2,
+      "updated_at": "2026-04-06T09:23:35Z"
+    },
+    {
+      "name": "evo-paas-services-social-network-webinars",
+      "url": "https://github.com/cloud-ru/evo-paas-services-social-network-webinars",
+      "description": null,
+      "license": "MIT",
+      "stars": 1,
+      "updated_at": "2026-04-24T09:19:23Z"
+    },
+    {
+      "name": "cloud-ru.github.io",
+      "url": "https://github.com/cloud-ru/cloud-ru.github.io",
+      "description": null,
+      "license": null,
+      "stars": 1,
+      "updated_at": "2026-05-27T14:59:45Z"
+    },
+    {
+      "name": "evo-app-services-workshop",
+      "url": "https://github.com/cloud-ru/evo-app-services-workshop",
+      "description": null,
+      "license": null,
+      "stars": 0,
+      "updated_at": "2024-08-12T21:48:46Z"
+    },
+    {
+      "name": "enterprise-education-labs",
+      "url": "https://github.com/cloud-ru/enterprise-education-labs",
+      "description": "Лабораторные работы для платформы Enterprise Cloud.ru",
+      "license": null,
+      "stars": 0,
+      "updated_at": "2025-08-19T13:32:08Z"
+    },
+    {
+      "name": "fluent-bit-plugins",
+      "url": "https://github.com/cloud-ru/fluent-bit-plugins",
+      "description": null,
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-08-28T04:17:51Z"
+    },
+    {
+      "name": "evolution-langchain",
+      "url": "https://github.com/cloud-ru/evolution-langchain",
+      "description": "Evolution Python library for the LangChain SDK",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-06-25T04:30:06Z"
+    },
+    {
+      "name": "evo-foundation-models-tg-bot-lab",
+      "url": "https://github.com/cloud-ru/evo-foundation-models-tg-bot-lab",
+      "description": "ИИ-бот для Telegram, который автоматически сохраняет сообщения из чатов и предоставляет интеллектуальный анализ, включая краткие изложения и извлечение задач. Построен на Python, LangChain с поддержкой локального и облачного хранения.",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-08-14T14:04:58Z"
+    },
+    {
+      "name": "evo-container-apps-currency-exchange-mcp-server-lab",
+      "url": "https://github.com/cloud-ru/evo-container-apps-currency-exchange-mcp-server-lab",
+      "description": "Демнострационный Node.js сервер для предоставления курсов валют Центрального Банка России (ЦБР) и инструментов конвертации через Model Context Protocol (MCP). Создан с использованием TypeScript и Express, предоставляет эндпоинты для получения актуальных курсов валют и конвертации валют в российские рубли (RUB).",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-08-19T12:07:35Z"
+    },
+    {
+      "name": "evo-managed-redis-sessions-management-lab",
+      "url": "https://github.com/cloud-ru/evo-managed-redis-sessions-management-lab",
+      "description": "Полнофункциональное Next.js приложение, демонстрирующее управление сессиями на основе Redis с аутентификацией пользователей. Этот проект демонстрирует полную систему аутентификации с регистрацией, входом, управлением сессиями и безопасным выходом из системы.",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-08-25T07:25:01Z"
+    },
+    {
+      "name": "evo-ai-agents-cli",
+      "url": "https://github.com/cloud-ru/evo-ai-agents-cli",
+      "description": null,
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2026-02-09T02:15:56Z"
+    },
+    {
+      "name": "evo-ai-agents-wiki-integration-webinar",
+      "url": "https://github.com/cloud-ru/evo-ai-agents-wiki-integration-webinar",
+      "description": null,
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2026-02-10T07:03:56Z"
+    },
+    {
+      "name": "evo-managed-kafka-microservices",
+      "url": "https://github.com/cloud-ru/evo-managed-kafka-microservices",
+      "description": "Микросервисная архитектура на базе NestJS и Apache Kafka для демонстрации архитектуры на основе брокеров сообщений.",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-12-19T07:24:57Z"
+    },
+    {
+      "name": "evo-docker-run-kserve-lab",
+      "url": "https://github.com/cloud-ru/evo-docker-run-kserve-lab",
+      "description": "Этот проект демонстрирует полный цикл развертывания модели google/flan-t5-small с использованием KServe. Модель предварительно загружается и встраивается непосредственно в Docker-образ.",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2026-02-10T12:42:39Z"
+    },
+    {
+      "name": "evo-repo-auth-helper",
+      "url": "https://github.com/cloud-ru/evo-repo-auth-helper",
+      "description": "Настройка аутентификации в репозиториях Cloud.ru по HTTPS с repo-auth-helper",
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2026-03-04T08:23:37Z"
+    },
+    {
+      "name": "evo-aifactory-mlops-course",
+      "url": "https://github.com/cloud-ru/evo-aifactory-mlops-course",
+      "description": null,
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2026-03-04T09:20:45Z"
+    }
+  ],
+  "cloud-ru-tech": [
+    {
+      "name": "mcp-server-mattermost",
+      "url": "https://github.com/cloud-ru-tech/mcp-server-mattermost",
+      "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
+      "license": "MIT",
+      "stars": 30,
+      "updated_at": "2026-05-26T14:10:03Z"
+    },
+    {
+      "name": "cloudhood",
+      "url": "https://github.com/cloud-ru-tech/cloudhood",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 29,
+      "updated_at": "2026-05-25T04:50:12Z"
+    },
+    {
+      "name": "snack-uikit",
+      "url": "https://github.com/cloud-ru-tech/snack-uikit",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 22,
+      "updated_at": "2026-05-27T13:12:36Z"
+    },
+    {
+      "name": "cloudlogin",
+      "url": "https://github.com/cloud-ru-tech/cloudlogin",
+      "description": "The CLI utility helps you to configure kubectl for authentication in your Cloud.ru Managed Kubernetes cluster",
+      "license": "Apache-2.0",
+      "stars": 10,
+      "updated_at": "2025-03-28T11:19:15Z"
+    },
+    {
+      "name": "frontend-tools",
+      "url": "https://github.com/cloud-ru-tech/frontend-tools",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 6,
+      "updated_at": "2026-04-23T09:34:37Z"
+    },
+    {
+      "name": "ansible-foreman-demo",
+      "url": "https://github.com/cloud-ru-tech/ansible-foreman-demo",
+      "description": null,
+      "license": null,
+      "stars": 5,
+      "updated_at": "2024-05-24T09:28:56Z"
+    },
+    {
+      "name": "evo-quantum-qubolib",
+      "url": "https://github.com/cloud-ru-tech/evo-quantum-qubolib",
+      "description": "Python-фреймворк для исследования и решения QUBO-задач, ключевой формулировки для квантовых алгоритмов оптимизации. Объединяет различные типы задач (TSP, MaxCut) и высокопроизводительные солверы (CPU/GPU) в единый, расширяемый и воспроизводимый пайплайн.",
+      "license": "NOASSERTION",
+      "stars": 2,
+      "updated_at": "2026-05-13T11:29:52Z"
+    },
+    {
+      "name": "cloud-ru-tech.github.io",
+      "url": "https://github.com/cloud-ru-tech/cloud-ru-tech.github.io",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 0,
+      "updated_at": "2026-05-27T14:57:17Z"
+    },
+    {
+      "name": "figma-tokens",
+      "url": "https://github.com/cloud-ru-tech/figma-tokens",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 0,
+      "updated_at": "2026-03-26T11:02:44Z"
+    },
+    {
+      "name": "figma-tokens-nachos",
+      "url": "https://github.com/cloud-ru-tech/figma-tokens-nachos",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 0,
+      "updated_at": "2026-01-27T06:32:17Z"
+    },
+    {
+      "name": "snack-uikit-template",
+      "url": "https://github.com/cloud-ru-tech/snack-uikit-template",
+      "description": "Быстрый старт для новых проектов на React с преднастроенной интеграцией snack-uikit. Полностью настроенный и подключённый snack-uikit, TypeScript, ESlint и Prettier, готовая структура проекта.",
+      "license": null,
+      "stars": 0,
+      "updated_at": "2025-10-13T10:13:10Z"
+    },
+    {
+      "name": "cisco-trex-automation",
+      "url": "https://github.com/cloud-ru-tech/cisco-trex-automation",
+      "description": null,
+      "license": "MIT",
+      "stars": 0,
+      "updated_at": "2025-10-24T16:06:30Z"
+    },
+    {
+      "name": "uikit-product",
+      "url": "https://github.com/cloud-ru-tech/uikit-product",
+      "description": null,
+      "license": "Apache-2.0",
+      "stars": 0,
+      "updated_at": "2026-05-27T14:54:24Z"
+    }
+  ]
 }
