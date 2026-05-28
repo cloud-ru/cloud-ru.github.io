@@ -57,17 +57,23 @@ jobs:
                 name: .name,
                 url: .html_url,
                 description: .description,
+                language: .language,
                 license: (if .license then .license.spdx_id else null end),
                 stars: .stargazers_count,
-                updated_at: .pushed_at
+                forks: .forks_count,
+                updated_at: .pushed_at,
+                topics: .topics
               }] | sort_by(-.stars),
               "cloud-ru-tech": [ $crt[0][] | {
                 name: .name,
                 url: .html_url,
                 description: .description,
+                language: .language,
                 license: (if .license then .license.spdx_id else null end),
                 stars: .stargazers_count,
-                updated_at: .pushed_at
+                forks: .forks_count,
+                updated_at: .pushed_at,
+                topics: .topics
               }] | sort_by(-.stars)
             }' > data/repos.json
 
