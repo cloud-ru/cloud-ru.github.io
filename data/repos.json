@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T09:55:20Z",
+  "updated_at": "2026-05-29T09:44:47Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -138,7 +138,7 @@
       "license": "MIT",
       "stars": 1,
       "forks": 3,
-      "updated_at": "2026-05-28T07:59:55Z",
+      "updated_at": "2026-05-29T08:44:32Z",
       "topics": []
     },
     {
@@ -149,7 +149,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-05-28T08:49:20Z",
+      "updated_at": "2026-05-28T09:55:21Z",
       "topics": []
     },
     {
@@ -323,7 +323,7 @@
     {
       "name": "cloudhood",
       "url": "https://github.com/cloud-ru-tech/cloudhood",
-      "description": null,
+      "description": "Cloudhood is a powerful browser extension that allows users to control HTTP request headers that will be embedded in all web requests. Built with modern web technologies and following Feature-Sliced Design architecture principles.",
       "language": "TypeScript",
       "license": "Apache-2.0",
       "stars": 29,
@@ -339,7 +339,7 @@
       "license": "Apache-2.0",
       "stars": 22,
       "forks": 3,
-      "updated_at": "2026-05-27T13:12:36Z",
+      "updated_at": "2026-05-28T15:38:49Z",
       "topics": []
     },
     {
@@ -394,7 +394,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-05-27T15:47:20Z",
+      "updated_at": "2026-05-29T07:32:13Z",
       "topics": []
     },
     {
@@ -449,7 +449,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-05-27T15:43:12Z",
+      "updated_at": "2026-05-29T07:27:10Z",
       "topics": []
     }
   ]
