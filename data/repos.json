@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T08:39:25Z",
+  "updated_at": "2026-06-01T11:24:03Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -35,6 +35,17 @@
       "topics": []
     },
     {
+      "name": "a2a-adk-mcp-example",
+      "url": "https://github.com/cloud-ru/a2a-adk-mcp-example",
+      "description": null,
+      "language": "Python",
+      "license": null,
+      "stars": 6,
+      "forks": 1,
+      "updated_at": "2025-07-24T14:55:03Z",
+      "topics": []
+    },
+    {
       "name": "evo-foundation-models-vibe-coding-prompts",
       "url": "https://github.com/cloud-ru/evo-foundation-models-vibe-coding-prompts",
       "description": null,
@@ -59,17 +70,6 @@
         "openai-api",
         "python"
       ]
-    },
-    {
-      "name": "a2a-adk-mcp-example",
-      "url": "https://github.com/cloud-ru/a2a-adk-mcp-example",
-      "description": null,
-      "language": "Python",
-      "license": null,
-      "stars": 5,
-      "forks": 1,
-      "updated_at": "2025-07-24T14:55:03Z",
-      "topics": []
     },
     {
       "name": "evo-aifactory-skills",
@@ -149,7 +149,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-05-30T08:23:32Z",
+      "updated_at": "2026-05-31T08:39:26Z",
       "topics": []
     },
     {
