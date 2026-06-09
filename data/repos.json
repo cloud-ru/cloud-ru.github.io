@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T10:28:41Z",
+  "updated_at": "2026-06-09T09:34:23Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -18,7 +18,7 @@
       "description": "Лабораторные работы AI Agents",
       "language": "Python",
       "license": "MIT",
-      "stars": 12,
+      "stars": 13,
       "forks": 8,
       "updated_at": "2026-04-13T07:37:28Z",
       "topics": []
@@ -149,7 +149,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-06-07T08:50:20Z",
+      "updated_at": "2026-06-08T10:28:42Z",
       "topics": []
     },
     {
@@ -394,7 +394,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-06-08T09:43:43Z",
+      "updated_at": "2026-06-08T10:38:22Z",
       "topics": []
     },
     {
@@ -449,7 +449,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-06-08T10:28:24Z",
+      "updated_at": "2026-06-08T10:29:35Z",
       "topics": []
     }
   ]
