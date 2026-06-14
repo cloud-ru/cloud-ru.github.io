@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T08:52:28Z",
+  "updated_at": "2026-06-14T09:26:57Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -149,7 +149,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-06-12T10:03:50Z",
+      "updated_at": "2026-06-13T08:52:29Z",
       "topics": []
     },
     {
@@ -360,7 +360,7 @@
       "language": "TypeScript",
       "license": "Apache-2.0",
       "stars": 6,
-      "forks": 1,
+      "forks": 2,
       "updated_at": "2026-06-02T13:20:42Z",
       "topics": []
     },
