@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T08:30:55Z",
+  "updated_at": "2026-06-28T08:45:47Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -30,7 +30,7 @@
       "language": "Python",
       "license": "MIT",
       "stars": 8,
-      "forks": 4,
+      "forks": 3,
       "updated_at": "2025-06-25T01:59:50Z",
       "topics": []
     },
@@ -149,7 +149,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-06-26T08:57:14Z",
+      "updated_at": "2026-06-27T08:30:56Z",
       "topics": []
     },
     {
