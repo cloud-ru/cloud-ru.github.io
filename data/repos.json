@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T10:47:45Z",
+  "updated_at": "2026-06-30T09:25:48Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -149,7 +149,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-06-28T08:45:48Z",
+      "updated_at": "2026-06-29T10:47:46Z",
       "topics": []
     },
     {
@@ -326,7 +326,7 @@
       "description": "Cloudhood is a powerful browser extension that allows users to control HTTP request headers that will be embedded in all web requests. Built with modern web technologies and following Feature-Sliced Design architecture principles.",
       "language": "TypeScript",
       "license": "Apache-2.0",
-      "stars": 29,
+      "stars": 30,
       "forks": 2,
       "updated_at": "2026-06-25T08:19:00Z",
       "topics": []
@@ -394,7 +394,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-06-29T07:45:30Z",
+      "updated_at": "2026-06-29T13:04:30Z",
       "topics": []
     },
     {
@@ -449,7 +449,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-06-29T07:38:52Z",
+      "updated_at": "2026-06-29T13:00:01Z",
       "topics": []
     }
   ]
