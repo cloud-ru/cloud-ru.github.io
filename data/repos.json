@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T09:33:12Z",
+  "updated_at": "2026-07-08T08:19:35Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -94,21 +94,6 @@
       "topics": []
     },
     {
-      "name": "evo-containerapp-restapi-js-go-python-dotnet-sample",
-      "url": "https://github.com/cloud-ru/evo-containerapp-restapi-js-go-python-dotnet-sample",
-      "description": "Примеры использования Evolution Container Apps и Artifact Registry",
-      "language": "JavaScript",
-      "license": "MIT",
-      "stars": 2,
-      "forks": 11,
-      "updated_at": "2024-08-16T15:38:19Z",
-      "topics": [
-        "container",
-        "evolution",
-        "registry"
-      ]
-    },
-    {
       "name": "telegram-bot-mcp-evolution-managed-rag",
       "url": "https://github.com/cloud-ru/telegram-bot-mcp-evolution-managed-rag",
       "description": null,
@@ -149,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-07-06T10:09:14Z",
+      "updated_at": "2026-07-07T09:33:13Z",
       "topics": []
     },
     {
@@ -394,7 +379,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-07-03T12:02:06Z",
+      "updated_at": "2026-07-07T16:12:15Z",
       "topics": []
     },
     {
@@ -449,7 +434,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-06-29T13:00:01Z",
+      "updated_at": "2026-07-07T16:09:01Z",
       "topics": []
     }
   ]
