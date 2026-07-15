@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T07:54:23Z",
+  "updated_at": "2026-07-15T07:59:16Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-07-13T09:16:46Z",
+      "updated_at": "2026-07-14T07:54:23Z",
       "topics": []
     },
     {
@@ -291,7 +291,7 @@
       "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
       "language": "Python",
       "license": "MIT",
-      "stars": 34,
+      "stars": 35,
       "forks": 9,
       "updated_at": "2026-07-07T09:23:13Z",
       "topics": [
@@ -306,6 +306,17 @@
       ]
     },
     {
+      "name": "guardrails-llm-filter",
+      "url": "https://github.com/cloud-ru-tech/guardrails-llm-filter",
+      "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 32,
+      "forks": 0,
+      "updated_at": "2026-07-15T07:40:44Z",
+      "topics": []
+    },
+    {
       "name": "cloudhood",
       "url": "https://github.com/cloud-ru-tech/cloudhood",
       "description": "Cloudhood is a powerful browser extension that allows users to control HTTP request headers that will be embedded in all web requests. Built with modern web technologies and following Feature-Sliced Design architecture principles.",
@@ -313,7 +324,18 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-07-09T08:25:12Z",
+      "updated_at": "2026-07-14T12:11:38Z",
+      "topics": []
+    },
+    {
+      "name": "guardrails-llm-filter-extproc",
+      "url": "https://github.com/cloud-ru-tech/guardrails-llm-filter-extproc",
+      "description": null,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 24,
+      "forks": 0,
+      "updated_at": "2026-07-14T19:52:48Z",
       "topics": []
     },
     {
