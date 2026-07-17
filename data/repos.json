@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T08:04:15Z",
+  "updated_at": "2026-07-17T08:01:21Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -9,7 +9,7 @@
       "license": "MIT",
       "stars": 23,
       "forks": 6,
-      "updated_at": "2026-07-03T13:42:24Z",
+      "updated_at": "2026-07-16T15:07:35Z",
       "topics": []
     },
     {
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-07-15T07:59:17Z",
+      "updated_at": "2026-07-16T08:04:16Z",
       "topics": []
     },
     {
@@ -291,7 +291,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 37,
+      "stars": 43,
       "forks": 0,
       "updated_at": "2026-07-16T07:50:17Z",
       "topics": []
@@ -317,6 +317,17 @@
       ]
     },
     {
+      "name": "guardrails-llm-filter-extproc",
+      "url": "https://github.com/cloud-ru-tech/guardrails-llm-filter-extproc",
+      "description": null,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 31,
+      "forks": 0,
+      "updated_at": "2026-07-14T19:52:48Z",
+      "topics": []
+    },
+    {
       "name": "cloudhood",
       "url": "https://github.com/cloud-ru-tech/cloudhood",
       "description": "Cloudhood is a powerful browser extension that allows users to control HTTP request headers that will be embedded in all web requests. Built with modern web technologies and following Feature-Sliced Design architecture principles.",
@@ -324,18 +335,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-07-14T12:11:38Z",
-      "topics": []
-    },
-    {
-      "name": "guardrails-llm-filter-extproc",
-      "url": "https://github.com/cloud-ru-tech/guardrails-llm-filter-extproc",
-      "description": null,
-      "language": "Go",
-      "license": "Apache-2.0",
-      "stars": 27,
-      "forks": 0,
-      "updated_at": "2026-07-14T19:52:48Z",
+      "updated_at": "2026-07-16T08:20:24Z",
       "topics": []
     },
     {
