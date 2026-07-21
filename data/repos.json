@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T08:49:39Z",
+  "updated_at": "2026-07-21T08:19:15Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-07-19T08:08:19Z",
+      "updated_at": "2026-07-20T08:49:40Z",
       "topics": []
     },
     {
@@ -291,9 +291,20 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 43,
+      "stars": 53,
+      "forks": 1,
+      "updated_at": "2026-07-20T14:26:44Z",
+      "topics": []
+    },
+    {
+      "name": "guardrails-llm-filter-extproc",
+      "url": "https://github.com/cloud-ru-tech/guardrails-llm-filter-extproc",
+      "description": null,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 36,
       "forks": 0,
-      "updated_at": "2026-07-16T07:50:17Z",
+      "updated_at": "2026-07-20T09:26:10Z",
       "topics": []
     },
     {
@@ -304,7 +315,7 @@
       "license": "MIT",
       "stars": 35,
       "forks": 9,
-      "updated_at": "2026-07-07T09:23:13Z",
+      "updated_at": "2026-07-20T17:35:19Z",
       "topics": [
         "ai",
         "claude",
@@ -315,17 +326,6 @@
         "mcp",
         "python"
       ]
-    },
-    {
-      "name": "guardrails-llm-filter-extproc",
-      "url": "https://github.com/cloud-ru-tech/guardrails-llm-filter-extproc",
-      "description": null,
-      "language": "Go",
-      "license": "Apache-2.0",
-      "stars": 35,
-      "forks": 0,
-      "updated_at": "2026-07-14T19:52:48Z",
-      "topics": []
     },
     {
       "name": "cloudhood",
