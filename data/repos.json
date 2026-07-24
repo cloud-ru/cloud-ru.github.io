@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T08:22:28Z",
+  "updated_at": "2026-07-24T08:18:00Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-07-22T08:20:14Z",
+      "updated_at": "2026-07-23T08:22:29Z",
       "topics": []
     },
     {
@@ -291,8 +291,8 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 113,
-      "forks": 10,
+      "stars": 119,
+      "forks": 11,
       "updated_at": "2026-07-20T14:26:44Z",
       "topics": []
     },
@@ -302,7 +302,7 @@
       "description": null,
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 40,
+      "stars": 42,
       "forks": 2,
       "updated_at": "2026-07-20T09:26:10Z",
       "topics": []
@@ -313,9 +313,9 @@
       "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
       "language": "Python",
       "license": "MIT",
-      "stars": 36,
+      "stars": 37,
       "forks": 9,
-      "updated_at": "2026-07-23T07:52:59Z",
+      "updated_at": "2026-07-23T16:29:51Z",
       "topics": [
         "ai",
         "claude",
@@ -335,7 +335,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-07-23T08:17:50Z",
+      "updated_at": "2026-07-23T08:20:53Z",
       "topics": []
     },
     {
@@ -401,7 +401,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-07-22T13:20:11Z",
+      "updated_at": "2026-07-23T11:48:10Z",
       "topics": []
     },
     {
@@ -456,7 +456,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-07-22T13:14:30Z",
+      "updated_at": "2026-07-23T11:41:41Z",
       "topics": []
     }
   ]
