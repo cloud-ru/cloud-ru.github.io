@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T08:31:29Z",
+  "updated_at": "2026-07-30T08:16:36Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -7,7 +7,7 @@
       "description": "Cloud.ru Evolution Terraform provider",
       "language": "HCL",
       "license": "MIT",
-      "stars": 23,
+      "stars": 24,
       "forks": 6,
       "updated_at": "2026-07-24T13:13:12Z",
       "topics": []
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-07-28T08:25:33Z",
+      "updated_at": "2026-07-29T08:31:30Z",
       "topics": []
     },
     {
@@ -302,7 +302,7 @@
       "description": null,
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 44,
+      "stars": 43,
       "forks": 2,
       "updated_at": "2026-07-27T09:25:00Z",
       "topics": []
@@ -335,7 +335,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-07-23T08:20:53Z",
+      "updated_at": "2026-07-30T06:52:40Z",
       "topics": []
     },
     {
@@ -401,7 +401,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-07-28T12:20:42Z",
+      "updated_at": "2026-07-29T10:39:49Z",
       "topics": []
     },
     {
@@ -456,7 +456,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-07-28T12:14:37Z",
+      "updated_at": "2026-07-29T10:35:26Z",
       "topics": []
     }
   ]
