@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:27:56Z",
+  "updated_at": "2026-08-06T08:26:25Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-04T08:28:55Z",
+      "updated_at": "2026-08-05T08:27:57Z",
       "topics": []
     },
     {
@@ -293,6 +293,39 @@
       "forks": 0,
       "updated_at": "2026-08-03T15:45:44Z",
       "topics": []
+    },
+    {
+      "name": "evo-agents-space-nango-openclaw-plugin",
+      "url": "https://github.com/cloud-ru/evo-agents-space-nango-openclaw-plugin",
+      "description": null,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-05T10:38:57Z",
+      "topics": []
+    },
+    {
+      "name": "evo-agents-space-llm-approve-openclaw-plugin",
+      "url": "https://github.com/cloud-ru/evo-agents-space-llm-approve-openclaw-plugin",
+      "description": null,
+      "language": "JavaScript",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-05T10:38:35Z",
+      "topics": []
+    },
+    {
+      "name": "evo-agents-space-openclaw-a2a-gateway",
+      "url": "https://github.com/cloud-ru/evo-agents-space-openclaw-a2a-gateway",
+      "description": null,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-05T10:39:17Z",
+      "topics": []
     }
   ],
   "cloud-ru-tech": [
@@ -324,7 +357,7 @@
       "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
       "language": "Python",
       "license": "MIT",
-      "stars": 37,
+      "stars": 38,
       "forks": 10,
       "updated_at": "2026-08-01T09:39:46Z",
       "topics": [
@@ -346,7 +379,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-07-30T08:21:00Z",
+      "updated_at": "2026-08-06T08:21:50Z",
       "topics": []
     },
     {
