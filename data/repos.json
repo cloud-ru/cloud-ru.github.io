@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:06:58Z",
+  "updated_at": "2026-08-08T06:41:55Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -9,7 +9,7 @@
       "license": "MIT",
       "stars": 24,
       "forks": 6,
-      "updated_at": "2026-07-24T13:13:12Z",
+      "updated_at": "2026-08-07T10:26:33Z",
       "topics": []
     },
     {
@@ -90,7 +90,7 @@
       "license": "MIT",
       "stars": 3,
       "forks": 0,
-      "updated_at": "2026-04-02T11:27:13Z",
+      "updated_at": "2026-08-07T11:06:21Z",
       "topics": []
     },
     {
@@ -134,7 +134,18 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-06T08:26:26Z",
+      "updated_at": "2026-08-07T07:06:59Z",
+      "topics": []
+    },
+    {
+      "name": "evolution-devservices-cli",
+      "url": "https://github.com/cloud-ru/evolution-devservices-cli",
+      "description": null,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-08-07T09:57:37Z",
       "topics": []
     },
     {
@@ -336,7 +347,7 @@
       "language": "Go",
       "license": "Apache-2.0",
       "stars": 144,
-      "forks": 19,
+      "forks": 20,
       "updated_at": "2026-08-03T14:25:45Z",
       "topics": []
     },
@@ -390,7 +401,7 @@
       "license": "Apache-2.0",
       "stars": 23,
       "forks": 3,
-      "updated_at": "2026-07-15T09:25:54Z",
+      "updated_at": "2026-08-07T12:14:01Z",
       "topics": []
     },
     {
@@ -445,7 +456,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-08-06T15:54:22Z",
+      "updated_at": "2026-08-07T12:24:48Z",
       "topics": []
     },
     {
