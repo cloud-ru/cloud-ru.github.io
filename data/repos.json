@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T06:41:55Z",
+  "updated_at": "2026-08-09T06:46:55Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -134,7 +134,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-07T07:06:59Z",
+      "updated_at": "2026-08-08T06:41:56Z",
       "topics": []
     },
     {
@@ -347,7 +347,7 @@
       "language": "Go",
       "license": "Apache-2.0",
       "stars": 144,
-      "forks": 20,
+      "forks": 21,
       "updated_at": "2026-08-03T14:25:45Z",
       "topics": []
     },
@@ -369,7 +369,7 @@
       "language": "Python",
       "license": "MIT",
       "stars": 38,
-      "forks": 10,
+      "forks": 11,
       "updated_at": "2026-08-01T09:39:46Z",
       "topics": [
         "ai",
