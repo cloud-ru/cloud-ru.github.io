@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T07:21:50Z",
+  "updated_at": "2026-08-11T06:57:57Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -116,6 +116,17 @@
       "topics": []
     },
     {
+      "name": "evolution-devservices-cli",
+      "url": "https://github.com/cloud-ru/evolution-devservices-cli",
+      "description": null,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-08-07T09:57:37Z",
+      "topics": []
+    },
+    {
       "name": "evo-paas-services-social-network-webinars",
       "url": "https://github.com/cloud-ru/evo-paas-services-social-network-webinars",
       "description": null,
@@ -134,18 +145,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-09T06:46:56Z",
-      "topics": []
-    },
-    {
-      "name": "evolution-devservices-cli",
-      "url": "https://github.com/cloud-ru/evolution-devservices-cli",
-      "description": null,
-      "language": "Go",
-      "license": "Apache-2.0",
-      "stars": 1,
-      "forks": 0,
-      "updated_at": "2026-08-07T09:57:37Z",
+      "updated_at": "2026-08-10T07:21:51Z",
       "topics": []
     },
     {
@@ -346,9 +346,9 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 144,
+      "stars": 145,
       "forks": 21,
-      "updated_at": "2026-08-03T14:25:45Z",
+      "updated_at": "2026-08-10T14:26:16Z",
       "topics": []
     },
     {
@@ -359,7 +359,7 @@
       "license": "Apache-2.0",
       "stars": 48,
       "forks": 2,
-      "updated_at": "2026-08-03T09:23:20Z",
+      "updated_at": "2026-08-10T09:27:05Z",
       "topics": []
     },
     {
@@ -368,7 +368,7 @@
       "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
       "language": "Python",
       "license": "MIT",
-      "stars": 38,
+      "stars": 39,
       "forks": 11,
       "updated_at": "2026-08-01T09:39:46Z",
       "topics": [
