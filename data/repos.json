@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T06:31:23Z",
+  "updated_at": "2026-08-17T06:42:31Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -72,6 +72,17 @@
       ]
     },
     {
+      "name": "ml-cli",
+      "url": "https://github.com/cloud-ru/ml-cli",
+      "description": null,
+      "language": "Python",
+      "license": "MIT",
+      "stars": 5,
+      "forks": 0,
+      "updated_at": "2026-08-07T11:06:21Z",
+      "topics": []
+    },
+    {
       "name": "evo-aifactory-skills",
       "url": "https://github.com/cloud-ru/evo-aifactory-skills",
       "description": "Универсальные скиллы для работы с сервисами Cloud.ru из любого AI-агента для разработки.",
@@ -80,17 +91,6 @@
       "stars": 5,
       "forks": 1,
       "updated_at": "2026-04-22T12:48:48Z",
-      "topics": []
-    },
-    {
-      "name": "ml-cli",
-      "url": "https://github.com/cloud-ru/ml-cli",
-      "description": null,
-      "language": "Python",
-      "license": "MIT",
-      "stars": 4,
-      "forks": 0,
-      "updated_at": "2026-08-07T11:06:21Z",
       "topics": []
     },
     {
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-15T06:28:40Z",
+      "updated_at": "2026-08-16T06:31:24Z",
       "topics": []
     },
     {
@@ -346,7 +346,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 150,
+      "stars": 152,
       "forks": 21,
       "updated_at": "2026-08-10T14:26:16Z",
       "topics": []
@@ -357,7 +357,7 @@
       "description": null,
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 48,
+      "stars": 49,
       "forks": 2,
       "updated_at": "2026-08-10T09:27:05Z",
       "topics": []
