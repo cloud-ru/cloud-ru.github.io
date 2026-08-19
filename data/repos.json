@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:33:49Z",
+  "updated_at": "2026-08-19T06:34:58Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -123,7 +123,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 1,
-      "updated_at": "2026-08-18T05:42:21Z",
+      "updated_at": "2026-08-18T10:59:56Z",
       "topics": []
     },
     {
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-17T06:42:32Z",
+      "updated_at": "2026-08-18T06:33:50Z",
       "topics": []
     },
     {
@@ -346,7 +346,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 152,
+      "stars": 154,
       "forks": 22,
       "updated_at": "2026-08-17T14:25:41Z",
       "topics": []
@@ -423,7 +423,7 @@
       "license": "Apache-2.0",
       "stars": 6,
       "forks": 1,
-      "updated_at": "2026-08-17T21:46:15Z",
+      "updated_at": "2026-08-18T10:25:53Z",
       "topics": []
     },
     {
@@ -452,11 +452,11 @@
       "name": "cloud-ru-tech.github.io",
       "url": "https://github.com/cloud-ru-tech/cloud-ru-tech.github.io",
       "description": null,
-      "language": "JavaScript",
+      "language": "HTML",
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-08-14T11:34:47Z",
+      "updated_at": "2026-08-18T15:19:42Z",
       "topics": []
     },
     {
@@ -511,7 +511,18 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-08-14T11:31:16Z",
+      "updated_at": "2026-08-18T12:49:48Z",
+      "topics": []
+    },
+    {
+      "name": "snack-v2",
+      "url": "https://github.com/cloud-ru-tech/snack-v2",
+      "description": null,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-18T15:52:35Z",
       "topics": []
     },
     {
