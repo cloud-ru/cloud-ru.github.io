@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T12:30:22Z",
+  "updated_at": "2026-09-01T10:58:55Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-08-30T11:06:13Z",
+      "updated_at": "2026-08-31T12:30:23Z",
       "topics": []
     },
     {
@@ -348,7 +348,7 @@
       "license": "Apache-2.0",
       "stars": 162,
       "forks": 24,
-      "updated_at": "2026-08-24T14:26:11Z",
+      "updated_at": "2026-08-31T14:27:53Z",
       "topics": []
     },
     {
@@ -370,7 +370,7 @@
       "license": "MIT",
       "stars": 42,
       "forks": 11,
-      "updated_at": "2026-08-15T00:19:12Z",
+      "updated_at": "2026-09-01T09:46:18Z",
       "topics": [
         "ai",
         "claude",
@@ -456,7 +456,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-08-28T15:43:26Z",
+      "updated_at": "2026-09-01T08:28:06Z",
       "topics": []
     },
     {
@@ -522,7 +522,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-08-28T15:55:00Z",
+      "updated_at": "2026-09-01T08:16:17Z",
       "topics": []
     },
     {
