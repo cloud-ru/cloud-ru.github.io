@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T10:26:08Z",
+  "updated_at": "2026-09-05T09:52:01Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-09-03T10:34:22Z",
+      "updated_at": "2026-09-04T10:26:10Z",
       "topics": []
     },
     {
@@ -346,7 +346,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 164,
+      "stars": 165,
       "forks": 24,
       "updated_at": "2026-08-31T14:27:53Z",
       "topics": []
@@ -370,7 +370,7 @@
       "license": "MIT",
       "stars": 44,
       "forks": 12,
-      "updated_at": "2026-09-01T09:46:18Z",
+      "updated_at": "2026-09-04T16:50:18Z",
       "topics": [
         "ai",
         "claude",
@@ -401,7 +401,7 @@
       "license": "Apache-2.0",
       "stars": 23,
       "forks": 3,
-      "updated_at": "2026-09-01T12:16:10Z",
+      "updated_at": "2026-09-04T12:14:16Z",
       "topics": []
     },
     {
@@ -449,6 +449,17 @@
       "topics": []
     },
     {
+      "name": "snack-v2",
+      "url": "https://github.com/cloud-ru-tech/snack-v2",
+      "description": null,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-09-05T09:30:31Z",
+      "topics": []
+    },
+    {
       "name": "cloud-ru-tech.github.io",
       "url": "https://github.com/cloud-ru-tech/cloud-ru-tech.github.io",
       "description": null,
@@ -456,7 +467,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-09-04T09:45:55Z",
+      "updated_at": "2026-09-05T09:39:20Z",
       "topics": []
     },
     {
@@ -511,18 +522,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-09-04T09:38:58Z",
-      "topics": []
-    },
-    {
-      "name": "snack-v2",
-      "url": "https://github.com/cloud-ru-tech/snack-v2",
-      "description": null,
-      "language": "TypeScript",
-      "license": "Apache-2.0",
-      "stars": 0,
-      "forks": 0,
-      "updated_at": "2026-09-03T20:14:24Z",
+      "updated_at": "2026-09-04T11:01:44Z",
       "topics": []
     },
     {
