@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:27:14Z",
+  "updated_at": "2026-09-11T10:29:32Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -57,6 +57,17 @@
       "topics": []
     },
     {
+      "name": "ml-cli",
+      "url": "https://github.com/cloud-ru/ml-cli",
+      "description": null,
+      "language": "Python",
+      "license": "MIT",
+      "stars": 6,
+      "forks": 0,
+      "updated_at": "2026-08-07T11:06:21Z",
+      "topics": []
+    },
+    {
       "name": "evolution-openai-python",
       "url": "https://github.com/cloud-ru/evolution-openai-python",
       "description": "Evolution Python library for the OpenAI API",
@@ -70,17 +81,6 @@
         "openai-api",
         "python"
       ]
-    },
-    {
-      "name": "ml-cli",
-      "url": "https://github.com/cloud-ru/ml-cli",
-      "description": null,
-      "language": "Python",
-      "license": "MIT",
-      "stars": 5,
-      "forks": 0,
-      "updated_at": "2026-08-07T11:06:21Z",
-      "topics": []
     },
     {
       "name": "evo-aifactory-skills",
@@ -123,7 +123,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 1,
-      "updated_at": "2026-08-21T13:00:18Z",
+      "updated_at": "2026-09-10T12:08:36Z",
       "topics": []
     },
     {
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-09-09T10:39:18Z",
+      "updated_at": "2026-09-10T10:27:15Z",
       "topics": []
     },
     {
@@ -357,7 +357,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 168,
+      "stars": 169,
       "forks": 25,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -368,7 +368,7 @@
       "description": null,
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 54,
+      "stars": 56,
       "forks": 3,
       "updated_at": "2026-08-24T09:23:49Z",
       "topics": []
@@ -467,7 +467,7 @@
       "license": "Apache-2.0",
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-09-10T10:19:35Z",
+      "updated_at": "2026-09-10T14:22:08Z",
       "topics": []
     },
     {
@@ -478,7 +478,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-09-10T06:48:13Z",
+      "updated_at": "2026-09-11T07:23:56Z",
       "topics": []
     },
     {
