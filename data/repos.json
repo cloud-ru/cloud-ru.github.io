@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:17:48Z",
+  "updated_at": "2026-10-02T11:46:14Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-09-30T11:48:32Z",
+      "updated_at": "2026-10-01T12:17:49Z",
       "topics": []
     },
     {
@@ -357,7 +357,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 185,
+      "stars": 186,
       "forks": 30,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -379,7 +379,7 @@
       "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
       "language": "Python",
       "license": "MIT",
-      "stars": 44,
+      "stars": 45,
       "forks": 12,
       "updated_at": "2026-10-01T10:12:32Z",
       "topics": [
@@ -467,7 +467,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-01T12:05:54Z",
+      "updated_at": "2026-10-02T06:44:52Z",
       "topics": []
     },
     {
@@ -478,7 +478,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-01T10:52:59Z",
+      "updated_at": "2026-10-02T06:43:10Z",
       "topics": []
     },
     {
