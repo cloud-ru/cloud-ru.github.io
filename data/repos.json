@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:41:39Z",
+  "updated_at": "2026-10-05T13:24:37Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -64,7 +64,7 @@
       "license": "MIT",
       "stars": 6,
       "forks": 0,
-      "updated_at": "2026-09-24T13:02:46Z",
+      "updated_at": "2026-10-05T10:28:07Z",
       "topics": []
     },
     {
@@ -123,7 +123,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 1,
-      "updated_at": "2026-10-01T10:59:23Z",
+      "updated_at": "2026-10-05T09:00:07Z",
       "topics": []
     },
     {
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-03T10:59:42Z",
+      "updated_at": "2026-10-04T11:41:40Z",
       "topics": []
     },
     {
@@ -357,7 +357,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 186,
+      "stars": 190,
       "forks": 30,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -368,7 +368,7 @@
       "description": null,
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 56,
+      "stars": 57,
       "forks": 4,
       "updated_at": "2026-08-24T09:23:49Z",
       "topics": []
@@ -467,7 +467,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-02T06:44:52Z",
+      "updated_at": "2026-10-05T09:25:24Z",
       "topics": []
     },
     {
@@ -478,7 +478,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-02T06:43:10Z",
+      "updated_at": "2026-10-05T09:25:14Z",
       "topics": []
     },
     {
