@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:32:48Z",
+  "updated_at": "2026-10-17T10:02:34Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-15T10:45:13Z",
+      "updated_at": "2026-10-16T10:32:49Z",
       "topics": []
     },
     {
@@ -357,7 +357,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 199,
+      "stars": 204,
       "forks": 34,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -401,7 +401,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-10-16T10:11:38Z",
+      "updated_at": "2026-10-16T12:02:35Z",
       "topics": []
     },
     {
@@ -455,7 +455,7 @@
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "stars": 4,
-      "forks": 0,
+      "forks": 1,
       "updated_at": "2026-08-31T08:23:22Z",
       "topics": []
     },
@@ -467,18 +467,18 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-16T07:12:01Z",
+      "updated_at": "2026-10-17T09:36:23Z",
       "topics": []
     },
     {
       "name": "cloud-ru-hr-tech-lab",
       "url": "https://github.com/cloud-ru-tech/cloud-ru-hr-tech-lab",
       "description": null,
-      "language": null,
+      "language": "Go",
       "license": "Apache-2.0",
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-14T12:45:48Z",
+      "updated_at": "2026-10-16T20:01:39Z",
       "topics": []
     },
     {
@@ -489,7 +489,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-16T07:13:30Z",
+      "updated_at": "2026-10-17T09:32:14Z",
       "topics": []
     },
     {
