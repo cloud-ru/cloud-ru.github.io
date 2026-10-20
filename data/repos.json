@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T11:55:17Z",
+  "updated_at": "2026-10-20T10:50:22Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,18 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-18T10:15:50Z",
+      "updated_at": "2026-10-19T11:55:19Z",
+      "topics": []
+    },
+    {
+      "name": "vmware-clouddirector-mcp",
+      "url": "https://github.com/cloud-ru/vmware-clouddirector-mcp",
+      "description": null,
+      "language": "TypeScript",
+      "license": "MIT",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-09-18T08:47:11Z",
       "topics": []
     },
     {
@@ -337,17 +348,6 @@
       "forks": 0,
       "updated_at": "2026-08-05T10:39:17Z",
       "topics": []
-    },
-    {
-      "name": "vmware-clouddirector-mcp",
-      "url": "https://github.com/cloud-ru/vmware-clouddirector-mcp",
-      "description": null,
-      "language": "TypeScript",
-      "license": "MIT",
-      "stars": 0,
-      "forks": 0,
-      "updated_at": "2026-09-18T08:47:11Z",
-      "topics": []
     }
   ],
   "cloud-ru-tech": [
@@ -357,8 +357,8 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 204,
-      "forks": 34,
+      "stars": 206,
+      "forks": 35,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
     },
@@ -467,7 +467,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-19T09:45:05Z",
+      "updated_at": "2026-10-20T10:05:24Z",
       "topics": []
     },
     {
@@ -489,7 +489,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-19T09:38:26Z",
+      "updated_at": "2026-10-20T10:15:09Z",
       "topics": []
     },
     {
@@ -544,7 +544,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-10-15T14:30:28Z",
+      "updated_at": "2026-10-19T14:07:01Z",
       "topics": []
     },
     {
