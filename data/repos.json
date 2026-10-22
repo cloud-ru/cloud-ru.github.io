@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:02:31Z",
+  "updated_at": "2026-10-22T11:01:21Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-20T10:50:23Z",
+      "updated_at": "2026-10-21T11:02:32Z",
       "topics": []
     },
     {
@@ -381,7 +381,7 @@
       "license": "MIT",
       "stars": 48,
       "forks": 11,
-      "updated_at": "2026-10-01T10:12:32Z",
+      "updated_at": "2026-10-22T09:13:16Z",
       "topics": [
         "ai",
         "claude",
@@ -401,7 +401,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-10-16T12:02:35Z",
+      "updated_at": "2026-10-22T09:55:23Z",
       "topics": []
     },
     {
@@ -467,7 +467,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-20T13:40:14Z",
+      "updated_at": "2026-10-21T16:36:13Z",
       "topics": []
     },
     {
@@ -479,17 +479,6 @@
       "stars": 1,
       "forks": 0,
       "updated_at": "2026-10-16T20:01:39Z",
-      "topics": []
-    },
-    {
-      "name": "cloud-ru-tech.github.io",
-      "url": "https://github.com/cloud-ru-tech/cloud-ru-tech.github.io",
-      "description": null,
-      "language": "HTML",
-      "license": "Apache-2.0",
-      "stars": 0,
-      "forks": 0,
-      "updated_at": "2026-10-20T10:15:09Z",
       "topics": []
     },
     {
@@ -556,6 +545,17 @@
       "stars": 0,
       "forks": 0,
       "updated_at": "2026-08-03T13:57:24Z",
+      "topics": []
+    },
+    {
+      "name": "cloud-ru-tech.github.io",
+      "url": "https://github.com/cloud-ru-tech/cloud-ru-tech.github.io",
+      "description": null,
+      "language": "HTML",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-10-22T10:30:06Z",
       "topics": []
     }
   ]
