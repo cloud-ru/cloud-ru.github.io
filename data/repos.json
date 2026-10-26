@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:34:43Z",
+  "updated_at": "2026-10-26T12:07:49Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -156,7 +156,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-24T10:09:38Z",
+      "updated_at": "2026-10-25T10:34:44Z",
       "topics": []
     },
     {
@@ -348,6 +348,17 @@
       "forks": 0,
       "updated_at": "2026-08-05T10:39:17Z",
       "topics": []
+    },
+    {
+      "name": "cloud-notebooks",
+      "url": "https://github.com/cloud-ru/cloud-notebooks",
+      "description": null,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-10-26T11:56:48Z",
+      "topics": []
     }
   ],
   "cloud-ru-tech": [
@@ -357,7 +368,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 207,
+      "stars": 208,
       "forks": 35,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -467,7 +478,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-23T06:55:05Z",
+      "updated_at": "2026-10-26T11:22:55Z",
       "topics": []
     },
     {
@@ -533,7 +544,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-10-20T11:36:17Z",
+      "updated_at": "2026-10-26T10:09:18Z",
       "topics": []
     },
     {
@@ -555,7 +566,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-23T06:52:03Z",
+      "updated_at": "2026-10-26T11:18:42Z",
       "topics": []
     }
   ]
