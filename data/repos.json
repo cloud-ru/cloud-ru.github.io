@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:07:49Z",
+  "updated_at": "2026-10-27T11:29:21Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -68,6 +68,28 @@
       "topics": []
     },
     {
+      "name": "evo-aifactory-skills",
+      "url": "https://github.com/cloud-ru/evo-aifactory-skills",
+      "description": "Универсальные скиллы для работы с сервисами Cloud.ru из любого AI-агента для разработки.",
+      "language": "Python",
+      "license": "NOASSERTION",
+      "stars": 6,
+      "forks": 1,
+      "updated_at": "2026-04-22T12:48:48Z",
+      "topics": []
+    },
+    {
+      "name": "cloud-notebooks",
+      "url": "https://github.com/cloud-ru/cloud-notebooks",
+      "description": null,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "stars": 6,
+      "forks": 0,
+      "updated_at": "2026-10-26T11:56:48Z",
+      "topics": []
+    },
+    {
       "name": "evolution-openai-python",
       "url": "https://github.com/cloud-ru/evolution-openai-python",
       "description": "Evolution Python library for the OpenAI API",
@@ -81,17 +103,6 @@
         "openai-api",
         "python"
       ]
-    },
-    {
-      "name": "evo-aifactory-skills",
-      "url": "https://github.com/cloud-ru/evo-aifactory-skills",
-      "description": "Универсальные скиллы для работы с сервисами Cloud.ru из любого AI-агента для разработки.",
-      "language": "Python",
-      "license": "NOASSERTION",
-      "stars": 5,
-      "forks": 1,
-      "updated_at": "2026-04-22T12:48:48Z",
-      "topics": []
     },
     {
       "name": "evolution-devservices-cli",
@@ -156,7 +167,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-25T10:34:44Z",
+      "updated_at": "2026-10-26T12:07:50Z",
       "topics": []
     },
     {
@@ -350,14 +361,14 @@
       "topics": []
     },
     {
-      "name": "cloud-notebooks",
-      "url": "https://github.com/cloud-ru/cloud-notebooks",
+      "name": "mlspace-plugin",
+      "url": "https://github.com/cloud-ru/mlspace-plugin",
       "description": null,
-      "language": "TypeScript",
-      "license": "Apache-2.0",
+      "language": "Python",
+      "license": "MIT",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-26T11:56:48Z",
+      "updated_at": "2026-10-26T10:56:51Z",
       "topics": []
     }
   ],
