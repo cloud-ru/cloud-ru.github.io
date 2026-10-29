@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:59:25Z",
+  "updated_at": "2026-10-29T12:09:40Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -35,6 +35,17 @@
       "topics": []
     },
     {
+      "name": "ml-cli",
+      "url": "https://github.com/cloud-ru/ml-cli",
+      "description": null,
+      "language": "Python",
+      "license": "MIT",
+      "stars": 7,
+      "forks": 0,
+      "updated_at": "2026-10-05T10:28:07Z",
+      "topics": []
+    },
+    {
       "name": "cloud-notebooks",
       "url": "https://github.com/cloud-ru/cloud-notebooks",
       "description": null,
@@ -65,17 +76,6 @@
       "stars": 6,
       "forks": 3,
       "updated_at": "2025-09-25T08:25:00Z",
-      "topics": []
-    },
-    {
-      "name": "ml-cli",
-      "url": "https://github.com/cloud-ru/ml-cli",
-      "description": null,
-      "language": "Python",
-      "license": "MIT",
-      "stars": 6,
-      "forks": 0,
-      "updated_at": "2026-10-05T10:28:07Z",
       "topics": []
     },
     {
@@ -138,6 +138,17 @@
       "topics": []
     },
     {
+      "name": "mlspace-plugin",
+      "url": "https://github.com/cloud-ru/mlspace-plugin",
+      "description": null,
+      "language": "Python",
+      "license": "MIT",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-10-27T11:30:06Z",
+      "topics": []
+    },
+    {
       "name": "evo-paas-services-social-network-webinars",
       "url": "https://github.com/cloud-ru/evo-paas-services-social-network-webinars",
       "description": null,
@@ -167,7 +178,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-10-27T11:29:22Z",
+      "updated_at": "2026-10-28T11:59:26Z",
       "topics": []
     },
     {
@@ -179,6 +190,17 @@
       "stars": 1,
       "forks": 0,
       "updated_at": "2026-09-18T08:47:11Z",
+      "topics": []
+    },
+    {
+      "name": "evo-dbaas-cli-sdk",
+      "url": "https://github.com/cloud-ru/evo-dbaas-cli-sdk",
+      "description": null,
+      "language": "Go",
+      "license": "MIT",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-10-28T20:17:10Z",
       "topics": []
     },
     {
@@ -359,17 +381,6 @@
       "forks": 0,
       "updated_at": "2026-08-05T10:39:17Z",
       "topics": []
-    },
-    {
-      "name": "mlspace-plugin",
-      "url": "https://github.com/cloud-ru/mlspace-plugin",
-      "description": null,
-      "language": "Python",
-      "license": "MIT",
-      "stars": 0,
-      "forks": 0,
-      "updated_at": "2026-10-27T11:30:06Z",
-      "topics": []
     }
   ],
   "cloud-ru-tech": [
@@ -380,7 +391,7 @@
       "language": "Go",
       "license": "Apache-2.0",
       "stars": 210,
-      "forks": 36,
+      "forks": 37,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
     },
@@ -423,7 +434,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-10-22T09:55:23Z",
+      "updated_at": "2026-10-29T08:25:03Z",
       "topics": []
     },
     {
@@ -489,7 +500,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-10-28T10:56:36Z",
+      "updated_at": "2026-10-29T10:29:12Z",
       "topics": []
     },
     {
@@ -555,7 +566,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-10-28T09:24:47Z",
+      "updated_at": "2026-10-29T07:44:25Z",
       "topics": []
     },
     {
@@ -577,7 +588,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-10-28T11:09:45Z",
+      "updated_at": "2026-10-29T10:38:19Z",
       "topics": []
     }
   ]
