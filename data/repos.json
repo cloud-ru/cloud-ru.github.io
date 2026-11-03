@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T14:35:51Z",
+  "updated_at": "2026-11-03T13:29:35Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -178,7 +178,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-11-01T12:33:13Z",
+      "updated_at": "2026-11-02T14:35:52Z",
       "topics": []
     },
     {
@@ -412,7 +412,7 @@
       "description": "MCP server for Mattermost — let Claude, Cursor, and other AI assistants work with channels, messages, and files",
       "language": "Python",
       "license": "MIT",
-      "stars": 49,
+      "stars": 50,
       "forks": 12,
       "updated_at": "2026-11-02T06:36:01Z",
       "topics": [
@@ -434,7 +434,7 @@
       "license": "Apache-2.0",
       "stars": 30,
       "forks": 2,
-      "updated_at": "2026-10-29T08:25:03Z",
+      "updated_at": "2026-11-02T19:43:05Z",
       "topics": []
     },
     {
@@ -500,7 +500,7 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "updated_at": "2026-11-02T14:19:09Z",
+      "updated_at": "2026-11-03T13:18:12Z",
       "topics": []
     },
     {
@@ -588,7 +588,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-11-02T14:10:52Z",
+      "updated_at": "2026-11-03T13:14:23Z",
       "topics": []
     }
   ]
