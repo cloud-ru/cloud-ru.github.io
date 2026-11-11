@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:11:34Z",
+  "updated_at": "2026-11-11T13:26:40Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -24,6 +24,17 @@
       "topics": []
     },
     {
+      "name": "ml-cli",
+      "url": "https://github.com/cloud-ru/ml-cli",
+      "description": null,
+      "language": "Python",
+      "license": "MIT",
+      "stars": 9,
+      "forks": 0,
+      "updated_at": "2026-10-05T10:28:07Z",
+      "topics": []
+    },
+    {
       "name": "mcp-servers",
       "url": "https://github.com/cloud-ru/mcp-servers",
       "description": null,
@@ -32,17 +43,6 @@
       "stars": 8,
       "forks": 3,
       "updated_at": "2025-06-25T01:59:50Z",
-      "topics": []
-    },
-    {
-      "name": "ml-cli",
-      "url": "https://github.com/cloud-ru/ml-cli",
-      "description": null,
-      "language": "Python",
-      "license": "MIT",
-      "stars": 8,
-      "forks": 0,
-      "updated_at": "2026-10-05T10:28:07Z",
       "topics": []
     },
     {
@@ -64,7 +64,7 @@
       "license": "Apache-2.0",
       "stars": 7,
       "forks": 0,
-      "updated_at": "2026-10-26T11:56:48Z",
+      "updated_at": "2026-11-10T17:35:15Z",
       "topics": []
     },
     {
@@ -178,7 +178,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-11-09T14:58:09Z",
+      "updated_at": "2026-11-10T14:11:35Z",
       "topics": []
     },
     {
@@ -402,7 +402,7 @@
       "language": "Go",
       "license": "Apache-2.0",
       "stars": 58,
-      "forks": 4,
+      "forks": 5,
       "updated_at": "2026-08-24T09:23:49Z",
       "topics": []
     },
@@ -589,6 +589,17 @@
       "stars": 0,
       "forks": 0,
       "updated_at": "2026-11-05T15:03:40Z",
+      "topics": []
+    },
+    {
+      "name": "qa-libraries",
+      "url": "https://github.com/cloud-ru-tech/qa-libraries",
+      "description": null,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-11-10T13:57:53Z",
       "topics": []
     }
   ]
