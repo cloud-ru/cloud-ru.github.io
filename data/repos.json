@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:49:10Z",
+  "updated_at": "2026-11-14T12:52:27Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -178,7 +178,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-11-12T14:30:59Z",
+      "updated_at": "2026-11-13T13:49:12Z",
       "topics": []
     },
     {
@@ -498,9 +498,9 @@
       "description": null,
       "language": "TypeScript",
       "license": "Apache-2.0",
-      "stars": 2,
+      "stars": 3,
       "forks": 0,
-      "updated_at": "2026-11-13T13:37:12Z",
+      "updated_at": "2026-11-14T01:28:06Z",
       "topics": []
     },
     {
@@ -566,7 +566,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-11-05T14:25:53Z",
+      "updated_at": "2026-11-13T15:01:15Z",
       "topics": []
     },
     {
@@ -588,7 +588,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-11-13T12:15:07Z",
+      "updated_at": "2026-11-13T17:08:46Z",
       "topics": []
     },
     {
@@ -599,7 +599,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-11-12T08:52:43Z",
+      "updated_at": "2026-11-14T12:43:17Z",
       "topics": []
     }
   ]
