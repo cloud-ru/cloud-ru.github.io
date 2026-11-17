@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:20:18Z",
+  "updated_at": "2026-11-17T15:24:40Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -87,6 +87,17 @@
       "stars": 6,
       "forks": 3,
       "updated_at": "2025-09-25T08:25:00Z",
+      "topics": []
+    },
+    {
+      "name": "evo-dbaas-cli-sdk",
+      "url": "https://github.com/cloud-ru/evo-dbaas-cli-sdk",
+      "description": null,
+      "language": "Go",
+      "license": "MIT",
+      "stars": 6,
+      "forks": 0,
+      "updated_at": "2026-11-17T10:52:52Z",
       "topics": []
     },
     {
@@ -178,7 +189,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-11-14T12:52:28Z",
+      "updated_at": "2026-11-15T13:20:22Z",
       "topics": []
     },
     {
@@ -190,17 +201,6 @@
       "stars": 1,
       "forks": 0,
       "updated_at": "2026-09-18T08:47:11Z",
-      "topics": []
-    },
-    {
-      "name": "evo-dbaas-cli-sdk",
-      "url": "https://github.com/cloud-ru/evo-dbaas-cli-sdk",
-      "description": null,
-      "language": "Go",
-      "license": "MIT",
-      "stars": 1,
-      "forks": 0,
-      "updated_at": "2026-11-12T14:16:19Z",
       "topics": []
     },
     {
@@ -445,7 +445,7 @@
       "license": "Apache-2.0",
       "stars": 24,
       "forks": 3,
-      "updated_at": "2026-10-15T11:45:18Z",
+      "updated_at": "2026-11-16T07:46:21Z",
       "topics": []
     },
     {
@@ -500,7 +500,7 @@
       "license": "Apache-2.0",
       "stars": 3,
       "forks": 0,
-      "updated_at": "2026-11-15T07:40:29Z",
+      "updated_at": "2026-11-17T14:48:26Z",
       "topics": []
     },
     {
@@ -512,6 +512,17 @@
       "stars": 1,
       "forks": 0,
       "updated_at": "2026-10-16T20:01:39Z",
+      "topics": []
+    },
+    {
+      "name": "qa-libraries",
+      "url": "https://github.com/cloud-ru-tech/qa-libraries",
+      "description": null,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-11-14T17:07:32Z",
       "topics": []
     },
     {
@@ -566,7 +577,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-11-13T15:01:15Z",
+      "updated_at": "2026-11-17T14:23:23Z",
       "topics": []
     },
     {
@@ -588,18 +599,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-11-15T06:47:25Z",
-      "topics": []
-    },
-    {
-      "name": "qa-libraries",
-      "url": "https://github.com/cloud-ru-tech/qa-libraries",
-      "description": null,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "stars": 0,
-      "forks": 0,
-      "updated_at": "2026-11-14T17:07:32Z",
+      "updated_at": "2026-11-17T13:57:20Z",
       "topics": []
     }
   ]
