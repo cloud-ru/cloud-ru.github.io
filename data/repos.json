@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T15:07:00Z",
+  "updated_at": "2026-11-20T14:47:23Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -189,7 +189,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-11-17T15:24:42Z",
+      "updated_at": "2026-11-19T15:07:01Z",
       "topics": []
     },
     {
@@ -390,7 +390,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 224,
+      "stars": 225,
       "forks": 39,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -493,6 +493,17 @@
       "topics": []
     },
     {
+      "name": "qa-libraries",
+      "url": "https://github.com/cloud-ru-tech/qa-libraries",
+      "description": null,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "stars": 4,
+      "forks": 0,
+      "updated_at": "2026-11-14T17:07:32Z",
+      "topics": []
+    },
+    {
       "name": "snack-v2",
       "url": "https://github.com/cloud-ru-tech/snack-v2",
       "description": null,
@@ -500,18 +511,7 @@
       "license": "Apache-2.0",
       "stars": 3,
       "forks": 0,
-      "updated_at": "2026-11-19T10:16:01Z",
-      "topics": []
-    },
-    {
-      "name": "qa-libraries",
-      "url": "https://github.com/cloud-ru-tech/qa-libraries",
-      "description": null,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "stars": 3,
-      "forks": 0,
-      "updated_at": "2026-11-14T17:07:32Z",
+      "updated_at": "2026-11-20T10:35:34Z",
       "topics": []
     },
     {
@@ -577,7 +577,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 1,
-      "updated_at": "2026-11-19T12:11:07Z",
+      "updated_at": "2026-11-20T11:53:01Z",
       "topics": []
     },
     {
@@ -599,7 +599,7 @@
       "license": "Apache-2.0",
       "stars": 0,
       "forks": 0,
-      "updated_at": "2026-11-19T11:51:39Z",
+      "updated_at": "2026-11-20T12:01:32Z",
       "topics": []
     }
   ]
