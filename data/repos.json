@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T14:47:23Z",
+  "updated_at": "2026-11-21T14:03:22Z",
   "cloud-ru": [
     {
       "name": "evo-terraform",
@@ -79,6 +79,21 @@
       "topics": []
     },
     {
+      "name": "evolution-openai-python",
+      "url": "https://github.com/cloud-ru/evolution-openai-python",
+      "description": "Evolution Python library for the OpenAI API",
+      "language": "Python",
+      "license": "MIT",
+      "stars": 6,
+      "forks": 1,
+      "updated_at": "2025-10-06T16:31:11Z",
+      "topics": [
+        "inference",
+        "openai-api",
+        "python"
+      ]
+    },
+    {
       "name": "a2a-adk-mcp-example",
       "url": "https://github.com/cloud-ru/a2a-adk-mcp-example",
       "description": null,
@@ -99,21 +114,6 @@
       "forks": 3,
       "updated_at": "2025-09-25T08:25:00Z",
       "topics": []
-    },
-    {
-      "name": "evolution-openai-python",
-      "url": "https://github.com/cloud-ru/evolution-openai-python",
-      "description": "Evolution Python library for the OpenAI API",
-      "language": "Python",
-      "license": "MIT",
-      "stars": 5,
-      "forks": 1,
-      "updated_at": "2025-10-06T16:31:11Z",
-      "topics": [
-        "inference",
-        "openai-api",
-        "python"
-      ]
     },
     {
       "name": "evolution-devservices-cli",
@@ -189,7 +189,7 @@
       "license": null,
       "stars": 1,
       "forks": 0,
-      "updated_at": "2026-11-19T15:07:01Z",
+      "updated_at": "2026-11-20T14:47:24Z",
       "topics": []
     },
     {
@@ -212,6 +212,17 @@
       "stars": 1,
       "forks": 0,
       "updated_at": "2026-09-18T08:47:11Z",
+      "topics": []
+    },
+    {
+      "name": "evo-cmcp",
+      "url": "https://github.com/cloud-ru/evo-cmcp",
+      "description": "Один инструмент управления облаком Evolution и для человека, и для AI-агента",
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-11-19T16:24:56Z",
       "topics": []
     },
     {
@@ -390,7 +401,7 @@
       "description": "Прозрачный обратный прокси между вашими клиентами и LLM-провайдером: убирает чувствительные данные из запросов к модели и восстанавливает их в ответах.",
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 225,
+      "stars": 226,
       "forks": 39,
       "updated_at": "2026-09-07T14:26:26Z",
       "topics": []
@@ -511,7 +522,7 @@
       "license": "Apache-2.0",
       "stars": 3,
       "forks": 0,
-      "updated_at": "2026-11-20T10:35:34Z",
+      "updated_at": "2026-11-21T13:57:49Z",
       "topics": []
     },
     {
